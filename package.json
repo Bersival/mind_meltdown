@@ -1,0 +1,7 @@
+{
+  "name": "mind_meltdown_chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Bersival/mind_meltdown_chat",
+  "license": "MIT"
+}
