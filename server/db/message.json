@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "messageId": "1",
+      "userId": "1",
+      "senderName": "Rick",
+      "messageText": "Hey, good morning, folks! Today, I got a bit lost on the path of life…",
+      "createdAt": "2023-07-23"
+    },
+    {
+      "messageId": "2",
+      "userId": "2",
+      "senderName": "Ash",
+      "messageText": "Go back to work!",
+      "createdAt": "2023-07-23"
+    }
+  ]
+}

@@ -7,8 +7,8 @@
   "author": "Bersival <reizerTV@gmail.com>",
   "private": true,
   "dependencies": {
-    "concurrently": "^8.2.0",
-    "nanoid": "^4.0.2"
+    "concurrently": "^6.0.0",
+    "nanoid": "^3.1.20"
   },
   "scripts": {
     "server": "yarn --cwd server dev",
