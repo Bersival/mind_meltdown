@@ -1,2 +1,3 @@
 # mind_meltdown
-Just a simple chat using React, react-bootstrap, socket.io + nanoid, concurrently, socket.io, lowdb, supervisor
+А simple socketio-based chat
+Stack: React, react-bootstrap, socket.io + nanoid, concurrently, socket.io, lowdb, supervisor
