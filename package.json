@@ -1,0 +1,18 @@
+{
+  "name": "mind_meltdown_chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Bersival/mind_meltdown_chat",
+  "license": "MIT",
+  "author": "Bersival <reizerTV@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "concurrently": "^6.0.0",
+    "nanoid": "^3.1.20"
+  },
+  "scripts": {
+    "server": "yarn --cwd server dev",
+    "client": "yarn --cwd client start",
+    "start": "concurrently \"yarn server\" \"yarn client\""
+  }
+}
